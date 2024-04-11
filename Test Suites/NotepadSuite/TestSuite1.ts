@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuite1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>a9378883-f74a-49bd-9501-70443de972e8</testSuiteGuid>
+   <testCaseLink>
+      <guid>eea019c4-ddb2-4139-b97e-d837c9199f45</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/NotepadTests/Notepad_TC01_saveTextFile</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c1551d99-43af-4b6a-bae3-2271cfb0ab88</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Notepad</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c1551d99-43af-4b6a-bae3-2271cfb0ab88</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Text</value>
+         <variableId>20fed1a2-6463-4374-af5f-7a81f62359b4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c1551d99-43af-4b6a-bae3-2271cfb0ab88</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FileName</value>
+         <variableId>5b9b9391-35c5-46d2-ae2e-db4fd2b66f16</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5f48953f-aad2-4caa-b195-4462945bb2d3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/NotepadTests/Notepad_TC02_openNewTabAndSaveTextFile</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2c51b60e-85a7-49c9-90e6-e6a59e625e66</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>2-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Notepad</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>2c51b60e-85a7-49c9-90e6-e6a59e625e66</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Text</value>
+         <variableId>1cdf998a-49f4-4f95-87d7-df3bfd92b7c0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2c51b60e-85a7-49c9-90e6-e6a59e625e66</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FileName</value>
+         <variableId>52800dcb-0754-496d-8f80-b556989ff826</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

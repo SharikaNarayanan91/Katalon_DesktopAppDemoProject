@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that if a file is already opened in the existing tab, the user can open a new tab and save a new file.</description>
+   <name>Notepad_TC02_openNewTabAndSaveTextFile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50bd9812-1c0f-4fb1-9dbd-cda22678d906</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1cdf998a-49f4-4f95-87d7-df3bfd92b7c0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>52800dcb-0754-496d-8f80-b556989ff826</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1cdf998a-49f4-4f95-87d7-df3bfd92b7c0</id>
+      <masked>false</masked>
+      <name>Text</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>52800dcb-0754-496d-8f80-b556989ff826</id>
+      <masked>false</masked>
+      <name>FileName</name>
+   </variable>
+</TestCaseEntity>
