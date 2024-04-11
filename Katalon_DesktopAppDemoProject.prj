@@ -6,11 +6,12 @@
    <UUID>8163344c-b05c-4a15-8a11-fc83fce801c0</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.4.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.4.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Sharika\git\Katalon_DesktopAppDemoProject\Katalon_DesktopAppDemoProject.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
