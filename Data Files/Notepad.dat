@@ -7,7 +7,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>d0d5f1e0-4c4a-42df-823a-14caf5e6d859</dataFileGUID>
-   <dataSourceUrl>C:\Users\Sharika\Katalon Studio\My First Desktop Project\InputFiles\Notepad.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\Sharika\git\Katalon_DesktopAppDemoProject\InputFiles\Notepad.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <properties>

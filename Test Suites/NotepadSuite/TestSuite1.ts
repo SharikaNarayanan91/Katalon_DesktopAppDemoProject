@@ -67,4 +67,38 @@
          <variableId>52800dcb-0754-496d-8f80-b556989ff826</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>422eb79d-5114-4226-9bac-eefcb7c61bbe</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/NotepadTests/Notepad_TC03_replaceText</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>390e7518-cf1a-4a27-b31e-9655b75d97d7</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>3-3</value>
+         </iterationEntity>
+         <testDataId>Data Files/Notepad</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>390e7518-cf1a-4a27-b31e-9655b75d97d7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Text</value>
+         <variableId>e34621e7-a914-47e4-bb6b-a5376277556c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>390e7518-cf1a-4a27-b31e-9655b75d97d7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FileName</value>
+         <variableId>5fcb0107-f830-47e5-b4df-0dc8661b1e4f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>390e7518-cf1a-4a27-b31e-9655b75d97d7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NewText</value>
+         <variableId>d9b35df1-e27e-493e-9f51-b873f5ccd843</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>
